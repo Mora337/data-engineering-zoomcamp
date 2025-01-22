@@ -1,2 +1,2 @@
-# data-engineering-zoomcamp--WK1
+# data-engineering-zoomcamp
 data-engineering-zoomcamp homework
